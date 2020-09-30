@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/travel-website/static/css/main.5f361e03.chunk.css",
+    "main.js": "/travel-website/static/js/main.0f56b509.chunk.js",
+    "main.js.map": "/travel-website/static/js/main.0f56b509.chunk.js.map",
+    "runtime-main.js": "/travel-website/static/js/runtime-main.0d8913de.js",
+    "runtime-main.js.map": "/travel-website/static/js/runtime-main.0d8913de.js.map",
+    "static/js/2.82dd61e9.chunk.js": "/travel-website/static/js/2.82dd61e9.chunk.js",
+    "static/js/2.82dd61e9.chunk.js.map": "/travel-website/static/js/2.82dd61e9.chunk.js.map",
+    "index.html": "/travel-website/index.html",
+    "precache-manifest.fd30e38a0d0b1a31b0449469755115f5.js": "/travel-website/precache-manifest.fd30e38a0d0b1a31b0449469755115f5.js",
+    "service-worker.js": "/travel-website/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/travel-website/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.82dd61e9.chunk.js.LICENSE.txt": "/travel-website/static/js/2.82dd61e9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/travel-website/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d8913de.js",
+    "static/js/2.82dd61e9.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.0f56b509.chunk.js"
+  ]
+}
