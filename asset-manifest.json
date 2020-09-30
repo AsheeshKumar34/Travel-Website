@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/travel-website/static/css/main.5f361e03.chunk.css",
-    "main.js": "/travel-website/static/js/main.0f56b509.chunk.js",
-    "main.js.map": "/travel-website/static/js/main.0f56b509.chunk.js.map",
-    "runtime-main.js": "/travel-website/static/js/runtime-main.0d8913de.js",
-    "runtime-main.js.map": "/travel-website/static/js/runtime-main.0d8913de.js.map",
-    "static/js/2.82dd61e9.chunk.js": "/travel-website/static/js/2.82dd61e9.chunk.js",
-    "static/js/2.82dd61e9.chunk.js.map": "/travel-website/static/js/2.82dd61e9.chunk.js.map",
-    "index.html": "/travel-website/index.html",
-    "precache-manifest.fd30e38a0d0b1a31b0449469755115f5.js": "/travel-website/precache-manifest.fd30e38a0d0b1a31b0449469755115f5.js",
-    "service-worker.js": "/travel-website/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/travel-website/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.82dd61e9.chunk.js.LICENSE.txt": "/travel-website/static/js/2.82dd61e9.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/travel-website/static/media/logo.5d5d9eef.svg"
+    "main.css": "/static/css/main.cb90aea9.chunk.css",
+    "main.js": "/static/js/main.308ca444.chunk.js",
+    "main.js.map": "/static/js/main.308ca444.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.53613ccf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.53613ccf.js.map",
+    "static/css/2.e6f51e71.chunk.css": "/static/css/2.e6f51e71.chunk.css",
+    "static/js/2.4c6eb3ab.chunk.js": "/static/js/2.4c6eb3ab.chunk.js",
+    "static/js/2.4c6eb3ab.chunk.js.map": "/static/js/2.4c6eb3ab.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.db90e6163943ac3c8854ac00ad8d2c80.js": "/precache-manifest.db90e6163943ac3c8854ac00ad8d2c80.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.e6f51e71.chunk.css.map": "/static/css/2.e6f51e71.chunk.css.map",
+    "static/css/main.cb90aea9.chunk.css.map": "/static/css/main.cb90aea9.chunk.css.map",
+    "static/js/2.4c6eb3ab.chunk.js.LICENSE.txt": "/static/js/2.4c6eb3ab.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.0d8913de.js",
-    "static/js/2.82dd61e9.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.0f56b509.chunk.js"
+    "static/js/runtime-main.53613ccf.js",
+    "static/css/2.e6f51e71.chunk.css",
+    "static/js/2.4c6eb3ab.chunk.js",
+    "static/css/main.cb90aea9.chunk.css",
+    "static/js/main.308ca444.chunk.js"
   ]
 }
