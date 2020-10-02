@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import { Button } from "./Button";
 import "./Footer.css";
 
@@ -20,64 +19,62 @@ function Footer() {
         <div className="footer-link-wrapper">
           <div className="footer-link-items">
             <h2>About Us</h2>
-            <Link to="/sign-up">How it works</Link>
-            <Link to="/">Testimonials</Link>
-            <Link to="/">Careers</Link>
-            <Link to="/">Investors</Link>
-            <Link to="/">Terms of Servies</Link>
+            <a href="javascipt:;">How it works</a>
+            <a href="javascipt:;">Testimonials</a>
+            <a href="javascipt:;">Careers</a>
+            <a href="javascipt:;">Investors</a>
+            <a href="javascipt:;">Terms of Servies</a>
           </div>
           <div className="footer-link-items">
             <h2>About Us</h2>
-            <Link to="/sign-up">How it works</Link>
-            <Link to="/">Testimonials</Link>
-            <Link to="/">Careers</Link>
-            <Link to="/">Investors</Link>
-            <Link to="/">Terms of Servies</Link>
+            <a href="javascipt:;">How it works</a>
+            <a href="javascipt:;">Testimonials</a>
+            <a href="javascipt:;">Careers</a>
+            <a href="javascipt:;">Investors</a>
+            <a href="javascipt:;">Terms of Servies</a>
           </div>
         </div>
         <div className="footer-link-wrapper">
           <div className="footer-link-items">
             <h2>About Us</h2>
-            <Link to="/sign-up">How it works</Link>
-            <Link to="/">Testimonials</Link>
-            <Link to="/">Careers</Link>
-            <Link to="/">Investors</Link>
-            <Link to="/">Terms of Servies</Link>
+            <a href="javascipt:;">How it works</a>
+            <a href="javascipt:;">Testimonials</a>
+            <a href="javascipt:;">Careers</a>
+            <a href="javascipt:;">Investors</a>
+            <a href="javascipt:;">Terms of Servies</a>
           </div>
           <div className="footer-link-items">
             <h2>About Us</h2>
-            <Link to="/sign-up">How it works</Link>
-            <Link to="/">Testimonials</Link>
-            <Link to="/">Careers</Link>
-            <Link to="/">Investors</Link>
-            <Link to="/">Terms of Servies</Link>
+            <a href="javascipt:;">How it works</a>
+            <a href="javascipt:;">Testimonials</a>
+            <a href="javascipt:;">Careers</a>
+            <a href="javascipt:;">Investors</a>
+            <a href="javascipt:;">Terms of Servies</a>
           </div>
         </div>
       </div>
       <section className="social-media">
         <div className="social-media-wrap">
           <div className="footer-logo">
-            <Link to="/" className="social-logo">
-              TRVL
-            </Link>
+            <a href="javascipt:;" className="social-logo"> TRVL</a>
           </div>
           <small className="website-rights">TRVL@2020</small>
           <div className="social-icons">
-            <Link to="/" target="_blank" aria-label="Facebook" className="social-icon-link facebook">
+            <a href="javascipt:;" target="_blank" aria-label="Facebook" className="social-icon-link facebook">
               <i className="fa fa-facebook-f"></i>
-            </Link>
-            <Link to="/" target="_blank" aria-label="Instagram" className="social-icon-link instagram ">
+            </a>
+            <a href="javascipt:;" target="_blank" aria-label="Instagram" className="social-icon-link instagram ">
               <i className="fa fa-instagram"></i>
-            </Link>
-            <Link to="/" target="_blank" aria-label="Youtube" className="social-icon-link youtube ">
+            </a>
+            <a href="javascipt:;" target="_blank" aria-label="Youtube" className="social-icon-link youtube ">
               <i className="fa fa-youtube"></i>
-            </Link>
-            <Link to="/" target="_blank" aria-label="Twitter" className="social-icon-link twitter ">
+            </a>
+            <a href="javascipt:;" target="_blank" aria-label="Twitter" className="social-icon-link twitter ">
               <i className="fa fa-twitter"></i>
-            </Link>
-            <Link to="/" target="_blank" aria-label="Linkedin" className="social-icon-link linkedin ">
+            </a>
+            <a href="javascipt:;" target="_blank" aria-label="Linkedin" className="social-icon-link linkedin ">
               <i className="fa fa-linkedin"></i>
-            </Link>
+            </a>
           </div>
         </div>
       </section>
